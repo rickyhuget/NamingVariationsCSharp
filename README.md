@@ -1,6 +1,6 @@
 # NamingVariationsCSharp
 
-This code is based off of a HackerRank challenge. The initial commit was the previous code I wrote to complete the challenge. The second commit is the code refactored using SOLID principles in an effert to better understand those principles in practice.
+This code is based off of a HackerRank challenge. The initial commit was the initial code I wrote to complete the challenge. The subsequent commits is the refactored code using SOLID principles in an effert to better understand those principles and put them into practice.
 
 Input Format:
 
